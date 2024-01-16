@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App-1-googleAuth</string>
+    <string name="success_login">구글 로그인 성공</string>
+    <string name="failed_login">구글 로그인 실패</string>
+    <string name="success_logout">로그아웃 되었습니다</string>
+    <string name="status_login">이미 로그인 되어있습니다</string>
+    <string name="web_client_id">849845218666-jt4vvmgdu7rgm2oc29uu07b2tv317uu6.apps.googleusercontent.com</string>
+</resources>

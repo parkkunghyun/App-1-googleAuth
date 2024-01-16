@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849845218666",
+    "firebase_url": "https://auth-basic-34da1-default-rtdb.firebaseio.com",
+    "project_id": "auth-basic-34da1",
+    "storage_bucket": "auth-basic-34da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849845218666:android:16559168dce63b099c8913",
+        "android_client_info": {
+          "package_name": "org.techtown.app_1_googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849845218666-mov752n22ffttbkbfvfnlifeclu5ma93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.app_1_googleauth",
+            "certificate_hash": "801b169e35f46338968b2498bd1d967a26a15cf8"
+          }
+        },
+        {
+          "client_id": "849845218666-jt4vvmgdu7rgm2oc29uu07b2tv317uu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAaG-wu4lRu6f0dfH_1QGhx9AQp1kPaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849845218666-jt4vvmgdu7rgm2oc29uu07b2tv317uu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
